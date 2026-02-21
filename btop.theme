@@ -1,0 +1,69 @@
+# Literary Universe Light — btop
+# Art Nouveau: warm ivory, sepia, muted sage, soft gold, LU magenta
+
+# Main background
+theme[main_bg]="#F7F2EA"
+
+# Main text color
+theme[main_fg]="#3A2E28"
+
+# Title color for boxes
+theme[title]="#A12577"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#C4963A"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#A12577"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#F7F2EA"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#C4A882"
+
+# Misc colors for processes box
+theme[proc_misc]="#6B8C6A"
+
+# Box outline colors
+theme[cpu_box]="#C4A882"
+theme[mem_box]="#C4A882"
+theme[net_box]="#C4A882"
+theme[proc_box]="#C4A882"
+theme[div_line]="#D6C9B8"
+
+# Temperature gradient — cool sage to warm gold to LU magenta
+theme[temp_start]="#7A9E8C"
+theme[temp_mid]="#C4963A"
+theme[temp_end]="#A12577"
+
+# CPU gradient — sage to gold
+theme[cpu_start]="#6B8C6A"
+theme[cpu_mid]="#C4963A"
+theme[cpu_end]="#B84C3A"
+
+# Memory gradients
+theme[free_start]="#7A9E8C"
+theme[free_mid]="#6B8C6A"
+theme[free_end]="#4E6A4C"
+
+theme[cached_start]="#C4A882"
+theme[cached_mid]="#C4963A"
+theme[cached_end]="#9A7228"
+
+theme[available_start]="#7A9E8C"
+theme[available_mid]="#6B8C6A"
+theme[available_end]="#4E6A4C"
+
+theme[used_start]="#C4963A"
+theme[used_mid]="#B84C3A"
+theme[used_end]="#8C3A2A"
+
+# Network gradients
+theme[download_start]="#7A9E8C"
+theme[download_mid]="#0575BC"
+theme[download_end]="#035A96"
+
+theme[upload_start]="#C4A882"
+theme[upload_mid]="#C4963A"
+theme[upload_end]="#A12577"

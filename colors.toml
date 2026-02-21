@@ -1,0 +1,26 @@
+# Literary Universe Light — colors.toml
+# Art Nouveau: warm ivory, sepia ink, muted sage, soft gold, LU magenta
+
+accent              = "#C4963A"
+cursor              = "#A12577"
+foreground          = "#3A2E28"
+background          = "#F7F2EA"
+selection_foreground = "#F7F2EA"
+selection_background = "#A12577"
+
+color0  = "#3A2E28"
+color1  = "#B84C3A"
+color2  = "#6B8C6A"
+color3  = "#C4963A"
+color4  = "#0575BC"
+color5  = "#A12577"
+color6  = "#7A9E8C"
+color7  = "#D6C9B8"
+color8  = "#6B5A4E"
+color9  = "#D4604A"
+color10 = "#82A880"
+color11 = "#DDB04E"
+color12 = "#3A9AD4"
+color13 = "#C44090"
+color14 = "#96B8A8"
+color15 = "#F7F2EA"

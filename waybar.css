@@ -1,0 +1,15 @@
+/* Literary Universe Light — Waybar
+ * Art Nouveau: warm ivory bar, sepia text, LU magenta accent
+ */
+
+@define-color background #C4A882;
+@define-color foreground #F7F2EA;
+@define-color black      #3A2E28;
+@define-color red        #B84C3A;
+@define-color green      #6B8C6A;
+@define-color yellow     #C4963A;
+@define-color blue       #0575BC;
+@define-color magenta    #A12577;
+@define-color cyan       #7A9E8C;
+@define-color white      #F7F2EA;
+@define-color bright-black #6B5A4E;
